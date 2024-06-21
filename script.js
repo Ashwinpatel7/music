@@ -6,7 +6,7 @@ const artistData = {
         },
         taylorSwift: {
             name: "Taylor Swift",
-            traits: "You are lovely and sweet person at same time but choosing taylor swift kind of make me think are you sad?",
+            traits: "You are lovely and sweet person at same time but choosing taylor swift kind of make me think are you sad?If no stop listening😂😎",
             image: "https://st.depositphotos.com/70843308/60469/i/450/depositphotos_604697876-stock-photo-taylor-swift-wearing-oscar-renta.jpg" // Replace with the actual image URL
         },
         coldplay: {
