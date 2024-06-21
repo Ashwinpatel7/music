@@ -1,22 +1,22 @@
 const artistData = {
         edSheeran: {
             name: "Ed Sheeran",
-            traits: "You are soulful and sensitive, with a deep appreciation for heartfelt lyrics and melodies.",
+            traits: "You are soulful and sensitive.",
             image: "https://via.placeholder.com/150" // Replace with the actual image URL
         },
         taylorSwift: {
             name: "Taylor Swift",
-            traits: "You are expressive and romantic, often finding connections to personal experiences through music.",
+            traits: "You are lovely and sweet person at same time but choosing taylor swift kind of make me think are you sad?",
             image: "https://st.depositphotos.com/70843308/60469/i/450/depositphotos_604697876-stock-photo-taylor-swift-wearing-oscar-renta.jpg" // Replace with the actual image URL
         },
         coldplay: {
             name: "Coldplay",
-            traits: "You are introspective and imaginative, enjoying music that explores complex emotions and themes.",
+            traits: "You are introspective and imaginative.",
             image: "https://via.placeholder.com/150" // Replace with the actual image URL
         },
         eminem: {
             name: "Eminem",
-            traits: "You are bold and outspoken, with a strong sense of individuality and a penchant for lyrical storytelling.",
+            traits: "You are bold and outspoken.",
             image: "https://via.placeholder.com/150" // Replace with the actual image URL
         }
     };
